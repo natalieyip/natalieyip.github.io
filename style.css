@@ -1,1 +1,23 @@
-body {background:blue}
+*{ 
+color: #481b91;
+text-shadow: 0px 0px 1px;
+ }
+
+body { 
+background: url(https://brevitas.com/wp-content/uploads/2015/01/sf-background-2-50.png) fixed
+}
+
+section { 
+	position: static;
+    width:550px;
+    height:175px;
+    background-color:black;
+    z-index:0;
+    opacity:0.5;
+    margin-left: auto;
+    margin-right: auto;
+ }
+ 
+.white{ 
+ 	color: white;
+  }
