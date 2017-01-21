@@ -17,7 +17,36 @@ section {
     margin-left: auto;
     margin-right: auto;
  }
- 
+
 .white{ 
  	color: white;
+  }
+
+a:link {
+    color: #481b91;
+}
+
+a:visited {
+    color: blue;
+}
+
+a:hover {
+    color: white;
+}
+
+table { 
+	font-family: cursive;
+	margin-right: auto;
+	margin-left: auto; 
+	background-color:white;
+	opacity:.75;
+	width: 30%;
+	text-align: center
+ }
+
+ #my-pic { 
+
+	border: 3px solid grey;
+	height: 40%;
+	width: 30%;
   }
