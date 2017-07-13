@@ -1,1 +1,0 @@
-# natalieyip.github.io
